@@ -1,12 +1,12 @@
-# WildShape
+# DnD5e-WildShape
 
 <!--- Downloads @ Latest Badge -->
 <!--- replace <user>/<repo> with your username/repository -->
-[Latest Release Download Count](https://img.shields.io/github/downloads/MisterHims/DnD5e-WildShape/latest/module.zip)
+<!--- [Latest Release Download Count](https://img.shields.io/github/downloads/MisterHims/DnD5e-WildShape/latest/module.zip) -->
 
 <!--- Forge Bazaar Install % Badge -->
 <!--- replace <your-module-name> with the `name` in your manifest -->
-[Forge Installs](https://img.shields.io/badge/dynamic/json?label=Forge%20Installs&query=package.installs&suffix=%25&url=https%3A%2F%2Fforge-vtt.com%2Fapi%2Fbazaar%2Fpackage%2F<DnD5e-WildShape>&colorB=4aa94a)
+<!--- [Forge Installs](https://img.shields.io/badge/dynamic/json?label=Forge%20Installs&query=package.installs&suffix=%25&url=https%3A%2F%2Fforge-vtt.com%2Fapi%2Fbazaar%2Fpackage%2F<DnD5e-WildShape>&colorB=4aa94a) -->
 
 <!--- C'est le lien du manifest, si besoin par la suite -->
 <!--- https://github.com/MisterHims/DnD5e-WildShape/releases/download/0.1.4-alpha/module.json -->
@@ -21,6 +21,16 @@
 * **Module(s) Requirement(s)**: [The Furnace](https://github.com/kakaroto/fvtt-module-furnace), [DAE](https://gitlab.com/tposney/dae), [Token Magic FX](https://github.com/Feu-Secret/Tokenmagic), [Midi-QOL](https://gitlab.com/tposney/midi-qol)
 * **Macro(s) Requirement(s)**: [WildShape Effect Macro](https://github.com/MisterHims/DnD5e-WildShape/blob/main/macros/WildShape%20Effect%20Macro.js)
 * **Langage(s)**: *[EN] (current)*, [[FR]](https://github.com/MisterHims/DnD5e-WildShape/blob/main/README-FR.md)
+
+## IMPORTANT
+
+VERSION NOT YET FUNCTIONAL!
+
+This directory has recently been replaced to succeed the DnD5e-WildShape macro. For now, the module version of this macro is still under construction, I invite you to go to the following page to access the macro:
+
+![DnD5e-WildShape-Macro](https://github.com/MisterHims/DnD5e-WildShape-Macro)
+
+Thank you!
 
 ## Description
 
