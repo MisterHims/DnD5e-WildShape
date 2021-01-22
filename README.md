@@ -24,11 +24,11 @@
 
 ## IMPORTANT
 
-VERSION NOT YET FUNCTIONAL!
+**VERSION NOT YET FUNCTIONAL!**
 
 This directory has recently been replaced to succeed the DnD5e-WildShape macro. For now, the module version of this macro is still under construction, I invite you to go to the following page to access the macro:
 
-[DnD5e-WildShape-Macro](https://github.com/MisterHims/DnD5e-WildShape-Macro)
+**[DnD5e-WildShape-Macro](https://github.com/MisterHims/DnD5e-WildShape-Macro)**
 
 Thank you!
 
